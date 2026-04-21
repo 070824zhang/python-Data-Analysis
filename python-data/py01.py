@@ -1,0 +1,5 @@
+print("hello worf")
+print("1111")
+print("1111")
+name = input("请输入你的名字:")
+print("你好",name)
